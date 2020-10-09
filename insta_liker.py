@@ -1,3 +1,4 @@
+#Author: Hossain Chisty
 import pyautogui
 from time import sleep
 pyautogui.FAILSAFE = False
